@@ -7,7 +7,6 @@ My Name is Michael Scheinfeild
 - 🤔 I’m looking for help with new job opportunities 
 - 💬 Ask me about machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michaelscheinfeild/)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: chess player
 
 I am an Electronics and Computer Engineer with a Master's degree (MSc) from Ben-Gurion University, specializing in Electrical Engineering and Computer Science. My thesis focused on a purchasing system for laser micro-communicators in space. The research was conducted under the guidance of Prof. Nathan Kopeika and resulted in two published articles that received significant acclaim.

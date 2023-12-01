@@ -1,11 +1,26 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Deep learning projects
+- 🌱 I’m currently learning Kalman filter as part of autonounous cars course on coursera
+- 👯 I’m looking to collaborate on kaggle 
+- 🤔 I’m looking for help with new job opportunities 
+- 💬 Ask me about machine learning
+- 📫 How to reach me: [...](https://www.linkedin.com/in/michaelscheinfeild/)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: chess player
+  
+
+I am an Electronics and Computer Engineer with a Master's degree (MSc) from Ben-Gurion University, specializing in Electrical Engineering and Computer Science.
+My thesis focused on a purchasing system for laser micro-communicators in space. The research was conducted under the guidance of Prof. Nathan Kopeika and resulted in two published articles that received significant acclaim.
+
+I have over 20 years of professional experience in the industry, specifically in algorithm development and software implementation. 
+I have worked on algorithms in the fields of signal processing, image processing, computer vision, and machine learning (including Deep Learning).
+Often, I have worked on projects that integrated multiple domains. In many of these projects, my work involved implementing the algorithms in software, utilizing various software tools 
+
 <!--
 **michaelscheinfeild/michaelscheinfeild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Deep learning projects
 - 🌱 I’m currently learning Kalman filter as part of autonounous cars course on coursera

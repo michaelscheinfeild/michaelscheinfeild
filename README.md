@@ -15,7 +15,18 @@ My thesis focused on a purchasing system for laser micro-communicators in space.
 
 I have over 20 years of professional experience in the industry, specifically in algorithm development and software implementation. 
 I have worked on algorithms in the fields of signal processing, image processing, computer vision, and machine learning (including Deep Learning).
-Often, I have worked on projects that integrated multiple domains. In many of these projects, my work involved implementing the algorithms in software, utilizing various software tools 
+Often, I have worked on projects that integrated multiple domains. In many of these projects, my work involved implementing the algorithms in software, utilizing various software tools.
+
+<br />
+
+### Languages and Tools:
+
+
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+
+
+<br />
+<br />
 
 <!--
 **michaelscheinfeild/michaelscheinfeild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

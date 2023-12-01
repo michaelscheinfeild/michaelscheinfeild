@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [...](https://www.linkedin.com/in/michaelscheinfeild/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: chess player
-
-
-
-
 -->

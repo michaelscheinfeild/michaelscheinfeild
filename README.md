@@ -28,20 +28,8 @@ Often, I have worked on projects that integrated multiple domains. In many of th
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />]
 [<img align="left" alt="MATLAB" width="26px" src="https://www.mathworks.com/company/newsroom/mathworks-logo-square.png" />]
+[<img align="left" alt="Machine Learning" width="26px" src="https://img.icons8.com/color/452/machine-learning.png" />]
 
 
 
-<!--
-**michaelscheinfeild/michaelscheinfeild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-- 🔭 I’m currently working on Deep learning projects
-- 🌱 I’m currently learning Kalman filter as part of autonounous cars course on coursera
-- 👯 I’m looking to collaborate on kaggle 
-- 🤔 I’m looking for help with new job opportunities 
-- 💬 Ask me about machine learning
-- 📫 How to reach me: [...](https://www.linkedin.com/in/michaelscheinfeild/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: chess player
--->

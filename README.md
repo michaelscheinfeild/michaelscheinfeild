@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on kaggle 
 - 🤔 I’m looking for help with new job opportunities 
 - 💬 Ask me about machine learning
-- 📫 How to reach me: [...](https://www.linkedin.com/in/michaelscheinfeild/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michaelscheinfeild/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: chess player
   

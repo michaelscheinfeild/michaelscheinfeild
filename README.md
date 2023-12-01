@@ -1,6 +1,7 @@
 ### Hi there 👋
+My Name is Michael Scheinfeild
 
-- 🔭 I’m currently working on Deep learning projects
+- 🔭 I’m currently working on Deep learning projects.
 - 🌱 I’m currently learning Kalman filter as part of an autonomous cars course on Coursera
 - 👯 I’m looking to collaborate on Kaggle 
 - 🤔 I’m looking for help with new job opportunities 
@@ -13,7 +14,7 @@ I am an Electronics and Computer Engineer with a Master's degree (MSc) from Ben-
 
 I have over 20 years of professional experience in the industry, specifically in algorithm development and software implementation. I have worked on algorithms in the fields of signal processing, image processing, computer vision, and machine learning (including Deep Learning). Often, I have worked on projects that integrated multiple domains. In many of these projects, my work involved implementing the algorithms in software, utilizing various software tools.
 
-<br />
+
 
 ### Languages and Tools:
 

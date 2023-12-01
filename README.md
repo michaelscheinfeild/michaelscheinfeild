@@ -18,7 +18,7 @@ I have over 20 years of professional experience in the industry, specifically in
 ### Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img align="left" alt="Keras" width="26px" src="https://keras.io/img/logo.png" />
 <img align="left" alt="scikit-learn" width="26px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 <img align="left" alt="pandas" width="26px" src="https://pandas.pydata.org/static/img/pandas.svg" />

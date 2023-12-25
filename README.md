@@ -2,10 +2,6 @@
 My Name is Michael Scheinfeild
 
 - 🔭 I’m currently working on Deep learning projects.
-- 🌱 I’m currently learning Kalman filter as part of an autonomous cars course on Coursera
-- 👯 I’m looking to collaborate on Kaggle 
-- 🤔 I’m looking for help with new job opportunities 
-- 💬 Ask me about machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michaelscheinfeild/)
 - ⚡ Fun fact: chess player
 
